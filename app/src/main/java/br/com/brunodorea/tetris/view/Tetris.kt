@@ -128,7 +128,7 @@ fun Tetris() {
             modifier = Modifier.padding(20.dp)
         )
         Text(
-            text = "Lv $level",
+            text = "Level: $level",
             fontSize = 18.sp,
             color = WHITE,
             modifier = Modifier.padding(10.dp)
